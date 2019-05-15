@@ -1,6 +1,6 @@
 '''
 
-@author: Local-Admin
+@author Jisu
 '''
 from __future__ import division
 import numpy as np
@@ -58,6 +58,6 @@ if __name__ == '__main__':
     v = value[:2]
     L = vector[:,:2]
     drawplot(data,L)
-    print J
+    print (J)
 
     
